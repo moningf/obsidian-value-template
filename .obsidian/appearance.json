@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Shimmering Focus",
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "calendar",
+    "homepage",
+    "【主页设置】homepage",
+    "【日历设置】calendar"
+  ]
+}

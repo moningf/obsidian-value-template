@@ -1,0 +1,20 @@
+/* obsidian-calendar-plugin */
+/* https://github.com/liamcain/obsidian-calendar-plugin */
+
+#calendar-container {
+  font-size: 1.2em;
+}
+
+#calendar-container th {
+  padding: 2px;
+}
+
+#calendar-container .day,
+#calendar-container .week-num {
+  padding: 2px;
+}
+
+#calendar-container .today{
+  color: #f0f;
+  /* background-color: #60f; */
+}

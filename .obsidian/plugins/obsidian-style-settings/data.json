@@ -1,0 +1,21 @@
+{
+  "shimmering-focus@@normal-tab-bar": true,
+  "shimmering-focus@@hide-inline-title-when-more-than-one-tab": false,
+  "shimmering-focus@@image-size": 100,
+  "shimmering-focus@@hide-vault-switcher-and-settings": false,
+  "shimmering-focus@@show-sidebar-header-buttons": false,
+  "shimmering-focus@@show-suggester-instructions": false,
+  "shimmering-focus@@show-new-tab-button": false,
+  "shimmering-focus@@show-tab-list-button": false,
+  "shimmering-focus@@show-sidebar-toggle-buttons": true,
+  "shimmering-focus@@show-close-buttons": false,
+  "shimmering-focus@@show-urls": false,
+  "shimmering-focus@@hide-properties-in-statusbar": true,
+  "shimmering-focus@@hide-backlinks-status-bar": true,
+  "shimmering-focus@@hide-pane-relief-focus-lock-status-bar": false,
+  "shimmering-focus@@hide-languagetool-status-bar": false,
+  "shimmering-focus@@hide-pandoc-reference-list-status-bar": false,
+  "shimmering-focus@@hide-harper-status-bar": false,
+  "shimmering-focus@@hide-signature-icon": true,
+  "shimmering-focus@@show-outline-buttons": false
+}
