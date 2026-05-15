@@ -586,5 +586,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "00丨Inbox/随手记.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 22
+      },
+      "to": {
+        "line": 6,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
   }
 }

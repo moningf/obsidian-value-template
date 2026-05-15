@@ -6,7 +6,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "80丨Obsidian/Task/收件箱.md",
+      "captureTo": "80丨Obsidian/Tasks/收件箱.md",
       "captureToActiveFile": false,
       "captureToCanvasNodeId": "",
       "activeFileWritePosition": "cursor",
