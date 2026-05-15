@@ -32,6 +32,10 @@
     {
       "regex": "00丨Inbox",
       "template": "80丨Obsidian/Template/Normal_Template.md"
+    },
+    {
+      "regex": ".*",
+      "template": "80丨Obsidian/Template/Normal_Template.md"
     }
   ],
   "syntax_highlighting": true,
