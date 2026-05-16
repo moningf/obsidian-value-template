@@ -120,6 +120,28 @@
             "dimension": 61.904761904761905,
             "children": [
               {
+                "id": "2827cddd5f70d521",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lines-of-text",
+                  "title": "Quiet Outline"
+                }
+              },
+              {
+                "id": "baa8f5a127cc8beb",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
                 "id": "b466cee1e4f6e67d",
                 "type": "leaf",
                 "state": {
@@ -149,17 +171,7 @@
                 }
               },
               {
-                "id": "baa8f5a127cc8beb",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Calendar"
-                }
-              },
-              {
-                "id": "d0b3118b50114aba",
+                "id": "3fe81eaf656f4af6",
                 "type": "leaf",
                 "state": {
                   "type": "claudian-view",
@@ -169,7 +181,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "9a289e22453daa21",
@@ -201,6 +213,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-kanban:创建新看板": false,
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
           "canvas:新建白板": false,
@@ -214,8 +227,8 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "e4773c4b520e9226",
-      "mtime": "2026-05-15T22:07:30+08:00"
+      "active": "baa8f5a127cc8beb",
+      "mtime": "2026-05-16T18:02:49+08:00"
     }
   },
   "active": "默认"

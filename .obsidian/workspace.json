@@ -118,6 +118,28 @@
         "dimension": 61.904761904761905,
         "children": [
           {
+            "id": "2827cddd5f70d521",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "pinned": true,
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "baa8f5a127cc8beb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "b466cee1e4f6e67d",
             "type": "leaf",
             "state": {
@@ -147,17 +169,7 @@
             }
           },
           {
-            "id": "baa8f5a127cc8beb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "d0b3118b50114aba",
+            "id": "3fe81eaf656f4af6",
             "type": "leaf",
             "state": {
               "type": "claudian-view",
@@ -167,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "9a289e22453daa21",
@@ -213,30 +225,34 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e4773c4b520e9226",
+  "active": "baa8f5a127cc8beb",
   "lastOpenFiles": [
+    "10丨MOC/LeetCode.md",
+    "50丨LeetCode/三数之和.md",
+    "80丨Obsidian/Navigate/HOME.md",
+    "10丨MOC/Obsidian指南.md",
+    "00丨Inbox/123.md",
     "00丨Inbox/随手记.md",
+    "10丨MOC/JavaMOC.md",
+    "80丨Obsidian/Tasks/IDEA.md",
+    "50丨LeetCode/123阿斯蒂芬.md",
+    "70丨Journal/2026-05-16.md",
+    "80丨Obsidian/Navigate/Quick Access.md",
+    "80丨Obsidian/Tasks/收件箱.md",
+    "80丨Obsidian/Tasks/任务面板.md",
     "70丨Journal/2026-05-15.md",
     "60丨Projects/黑马点评.md",
     "30丨CS/计算机网络.md",
     "30丨CS/正则表达式.md",
     "20丨Java/Stream流.md",
     "20丨Java/未命名.md",
-    "80丨Obsidian/Navigate/HOME.md",
     "60丨Projects/temp",
     "50丨LeetCode/三数之和.md~",
-    "50丨LeetCode/三数之和.md",
     "30丨CS/temp",
     "20丨Java/temp",
     "00丨Inbox/temp",
     "00丨Inbox/temp.",
     "00丨Inbox/test",
-    "80丨Obsidian/Tasks/收件箱.md",
-    "80丨Obsidian/Tasks/任务面板.md",
-    "10丨MOC/LeetCode.md",
-    "10丨MOC/Obsidian指南.md",
-    "10丨MOC/JavaMOC.md",
-    "80丨Obsidian/Tasks/IDEA.md",
     "80丨Obsidian/Tasks/IDEA.canvas",
     "40丨Tools/Obsidian/插件指南1.md",
     "70丨Journal",
@@ -245,13 +261,9 @@
     "70丨Journal",
     "80丨Obsidian/Template/Daily_template.md",
     "80丨Obsidian/Template/Normal_Template.md",
-    "00丨Inbox/123.md",
     "70丨Journal/2026-05-14.md",
     "70丨Journal/2026-05-13.md",
     "70丨Journal/2026-05-12.md",
-    "70丨Journal/1234.md",
-    "70丨Journal/123.md",
-    "80丨Obsidian/Navigate/Quick Access.md",
     "80丨Obsidian/Tasks/assets/任务面板/file-20260514215344777.webp",
     "123.canvas",
     "10丨Programming/集合框架/Spring笔记/spring_day03/assets/1630254257628.png",

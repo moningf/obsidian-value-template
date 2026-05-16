@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## 想法
@@ -12,12 +14,13 @@ kanban-plugin: board
 
 ## 已完成
 
+- [ ] 123
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true}
 ```
 %%
